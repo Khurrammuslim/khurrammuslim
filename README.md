@@ -13,7 +13,6 @@
 ![c#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 ![cucumber](https://img.shields.io/badge/cucumber-gray?style=flat&logo=cucumber)
-![renqroll](https://img.shields.io/github/license/reqnroll/Reqnroll.Rider)
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
