@@ -11,10 +11,6 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![k6](https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Khurrammuslim)](https://github.com/stats-organization/github-stats-extended)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khurrammuslim&layout=compact&theme=radical)
-
 QA Automation Engineer with 9+ years of experience in software testing, now expanding into full-stack automation and AI-driven QA.
 
 - 🔭 Currently building: A full-stack QA reputation portfolio — Playwright, API/Performance testing, AI-assisted QA, and a full-stack QA platform
