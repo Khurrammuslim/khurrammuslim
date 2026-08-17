@@ -11,6 +11,10 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![k6](https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 QA Automation Engineer with 9+ years of experience in software testing, now expanding into full-stack automation and AI-driven QA.
 
 - 🔭 Currently building: A full-stack QA reputation portfolio — Playwright, API/Performance testing, AI-assisted QA, and a full-stack QA platform
