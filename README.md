@@ -13,7 +13,6 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 QA Automation Engineer with 9+ years of experience in software testing, now expanding into full-stack automation and AI-driven QA.
 
