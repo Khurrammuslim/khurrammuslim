@@ -10,6 +10,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![k6](https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=k6&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![cucumber](https://img.shields.io/badge/cucumber-gray?style=flat&logo=cucumber)
+![renqroll](https://img.shields.io/github/license/reqnroll/Reqnroll.Rider)
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
